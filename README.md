@@ -13,6 +13,7 @@ Estou começando um Bootcamp em IA generativa pela **DIO**,
 em parceria com o _**Santander Open Academy**_, onde pretendo me dedicar ao máximo.
 
 Tenho base iniciante de **Figma** criando interfaces de páginas e aplicativos.
+Git e GitHub e HTML.
 
 ---
 Atualmente trabalho em setor comercial representando marcas de porcelanato onde uso bastates ferramentas digitais como:
