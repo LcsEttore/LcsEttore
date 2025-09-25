@@ -4,7 +4,7 @@ Sou formado em _Marketing_ pela UNIP.
 
 Estou iniciando nos códigos, estamos melhorando a cada dia.
 
-Fiz curso DE *Lógica de Programação* no _SENAC_, em **Forianópolis**.
+Fiz curso de *Lógica de Programação* no _SENAC_, em **Forianópolis**.
 Estou acompanhando alguns cursos gratuitos também pelo Youtube e tiro minhas dúvidas com uma programadora profissional que já atua na área. 
 Ela me dá todo suporte necessário e me indica os caminhos que devo seguir.
 
