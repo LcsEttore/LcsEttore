@@ -1,16 +1,27 @@
-## Hi there 👋
+# Oi, tudo bem? Sou Lucas. 
+---
+Sou formado em _Marketing_ pela UNIP.
 
-<!--
-**LcsEttore/LcsEttore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou iniciando nos códigos, estamos melhorando a cada dia.
 
-Here are some ideas to get you started:
+Fiz curso DE *Lógica de Programação* no _SENAC_, em **Forianópolis**.
+Estou acompanhando alguns cursos gratuitos também pelo Youtube e tiro minhas dúvidas com uma programadora profissional que já atua na área. 
+Ela me dá todo suporte necessário e me indica os caminhos que devo seguir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em breve pretendo fazer mais investimentos na área, como um curso mais completo.
+Estou começando um Bootcamp em IA generativa pela **DIO**, 
+em parceria com o _**Santander Open Academy**_, onde pretendo me dedicar ao máximo.
+
+Tenho base iniciante de **Figma** criando interfaces de páginas e aplicativos.
+
+---
+Atualmente trabalho em setor comercial representando marcas de porcelanato onde uso bastates ferramentas digitais como:
+
+Power BI | Sistemas SaaS | Ferramentas Microsoft | 
+---|---|---|
+
+Links Importantes:
+
+
+| [LinkedIn](https://www.linkedin.com/in/lucasettore/)| [Instagram](https://www.instagram.com/lucas.ettore/)| [Portifólio Design](https://ettorelucasoliveir.wixsite.com/portifolio) | [GitHub](https://github.com/LcsEttore)|
+----|----|----|----|
