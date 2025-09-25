@@ -15,7 +15,7 @@ em parceria com o _**Santander Open Academy**_, onde pretendo me dedicar ao máx
 Tenho base iniciante de **Figma** criando interfaces de páginas e aplicativos, Git e GitHub e HTML.
 
 ---
-Atualmente, trabalho em setor comercial representando marcas no setor de arquitetura, onde uso bastates ferramentas digitais como:
+Atualmente, trabalho em setor comercial representando marcas no setor de arquitetura, onde uso bastante ferramentas digitais como:
 
 Power BI | Sistemas SaaS | Ferramentas Microsoft | 
 ---|---|---|
