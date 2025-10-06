@@ -23,5 +23,5 @@ Power BI | Sistemas SaaS | Ferramentas Microsoft |
 Links Importantes:
 
 
-| [LinkedIn](https://www.linkedin.com/in/lucasettore/)| [Instagram](https://www.instagram.com/lucas.ettore/)| [Portifólio Design](https://ettorelucasoliveir.wixsite.com/portifolio) | [GitHub](https://github.com/LcsEttore)|
+| [LinkedIn](https://www.linkedin.com/in/lucasettore/)| [Instagram](https://www.instagram.com/lcs.ettore/)| [Portifólio Design](https://ettorelucasoliveir.wixsite.com/portifolio) | [GitHub](https://github.com/LcsEttore)|
 ----|----|----|----|
